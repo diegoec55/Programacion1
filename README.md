@@ -17,4 +17,6 @@ Crear rama y te mueve a ella
 git checkout -b "nombreRama"
 
 Moverse a otra rama
-git checkout "rama"
+git checkout "nombreRama"
+
+Hacer pull request desde github para poder mergear ramas
