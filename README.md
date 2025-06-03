@@ -17,4 +17,4 @@ Crear rama y te mueve a ella
 git checkout -b "nombreRama"
 
 Moverse a otra rama
-git checkout "nombreRama"
+git checkout "rama"
