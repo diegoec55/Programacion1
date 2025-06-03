@@ -18,3 +18,5 @@ git checkout -b "nombreRama"
 
 Moverse a otra rama
 git checkout "nombreRama"
+
+Hacer pull request desde github para poder mergear ramas
