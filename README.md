@@ -12,3 +12,9 @@ git push || git push origin nombreRama
 
 Para traer cambios/actualizaciones
 git pull || git pull origin nombreRama
+
+Crear rama y te mueve a ella
+git checkout -b "nombreRama"
+
+Moverse a otra rama
+git checkout "nombreRama"
